@@ -1,0 +1,1 @@
+kvrocks 添加一个 namespace 给 gway
